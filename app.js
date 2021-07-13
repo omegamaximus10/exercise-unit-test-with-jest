@@ -30,7 +30,7 @@ const fromYenToPounds= (yen) =>{
    let euros= yen / oneEuroIs.JPY
    let pounds= euros * oneEuroIs.GBP
    return  pounds.toFixed(4)
-
+g
 };
 
 
